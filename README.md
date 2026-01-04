@@ -27,14 +27,6 @@
 
 ---
 
-## 📊 Статистика
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=chekrushkaaa&show_icons=true&theme=radical" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chekrushkaaa&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
 ## 📫 Связь со мной
 [![Telegram](https://img.shields.io/badge/Telegram-@chekrushkaa-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/chekrushkaa)
 
