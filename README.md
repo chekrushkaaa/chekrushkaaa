@@ -1,8 +1,9 @@
 # Привет! Я Чекружка 👋
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/41/5b/9e/415b9e59040058e390623a0780f27405.gif" width="600" alt="Twilight Sparkle Coding">
+  <img src="https://skillbox.ru/upload/setka_images/16330718122024_b1f5fb33da8f50f319a53de56ac6374150b960ea.gif" width="600" alt="Programming GIF">
 </p>
+
 ## 🚀 Обо мне
 Я **Python Backend-разработчик**. Люблю фурри и создавать интересных ботов. 🐾
 
@@ -29,3 +30,6 @@
 ## 📫 Связь со мной
 [![Telegram](https://img.shields.io/badge/Telegram-@chekrushkaa-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/chekrushkaa)
 
+<p align="center">
+  <img src="https://i.pinimg.com/736x/91/93/7e/91937e7fc997a081179428325cdd537d.jpg" width="600" alt="Programming GIF">
+</p>
