@@ -1,4 +1,4 @@
-# Привет! Я Чекружка 👋
+# Привет! Я Чекрыжка 👋
 
 <p align="center">
   <img src="https://skillbox.ru/upload/setka_images/16330718122024_b1f5fb33da8f50f319a53de56ac6374150b960ea.gif" width="600" alt="Programming GIF">
