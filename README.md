@@ -30,6 +30,4 @@
 ## 📫 Связь со мной
 [![Telegram](https://img.shields.io/badge/Telegram-@chekrushkaa-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/chekrushkaa)
 
-<p align="center">
   <img src="https://i.pinimg.com/originals/41/5b/9e/415b9e59040058e390623a0780f27405.gif" width="600" alt="Twilight Sparkle Coding">
-</p>
